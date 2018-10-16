@@ -25,3 +25,4 @@ describe '#parrot' do
 end
 def #parrot("squawk")
 puts #parrot
+end
